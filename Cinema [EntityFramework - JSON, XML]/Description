@@ -1,0 +1,11 @@
+This project is based on an Exam from Soft Uni.
+The learning module is "Entity framework - Databases with C#"
+It shows that I have been practicing and I am familiar with the following .NET libraries:
+  - Newtonsoft.Json;
+  - Xml.Serialization;
+  - Automapper;
+  - ComponentModel.DataAnnotations;
+  
+The application creates a database using the Entity Framework "Code First" technique.
+There is a capture of the database diagriam, just to make it easier to understand. 
+  
